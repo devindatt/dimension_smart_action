@@ -1,6 +1,8 @@
 # dimension_smart_action
 Dimension Collaboration Log Application
 
+<img width="746" alt="dimension_logapp_screenshot" src="https://github.com/devindatt/dimension_smart_action/assets/42626142/3d5dc167-dcd9-4baf-972b-f7bf0196a18c">
+
 ## Overview
 
 The Dimension Collaboration Log Application is a Streamlit-based web application designed to enhance team collaboration by logging user inputs, categorizing them, and recommending relevant tools or actions. This application leverages the power of GPT-3.5 for natural language processing and decision-making, providing smart recommendations based on user logs.
