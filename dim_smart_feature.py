@@ -1,8 +1,6 @@
 import streamlit as st
 from streamlit.components.v1 import html
 import os
-import pandas as pd
-import numpy as np
 from genai_recommendations import *
 
 
