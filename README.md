@@ -1,5 +1,4 @@
-# dimension_smart_action
-Dimension Collaboration Log Application
+# Dimension Collaboration Log Application
 
 <img width="746" alt="dimension_logapp_screenshot" src="https://github.com/devindatt/dimension_smart_action/assets/42626142/3d5dc167-dcd9-4baf-972b-f7bf0196a18c">
 
@@ -61,4 +60,4 @@ Apache License - free to use
 
 Contact
 
-For any queries or suggestions, please contact [Your Name or Contact Information].
+For any queries or suggestions, please contact Devin Datt at devindatt@sonarai.io
