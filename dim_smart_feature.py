@@ -25,7 +25,6 @@ def main():
 
     # Text input for the user
     user_input = st.text_input("Enter your log input below:", key="user_input")
-    st.write(st.session_state.user_input)
 
     # Adding this for convenience to copy same user issue for testing purposes
     st.write('''Temporary Placeholder: 'found a bug with the import issue icon - it doesn't look like the same size & also color looks a bit off. let's fix this pls' ''')
