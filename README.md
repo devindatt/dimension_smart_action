@@ -31,19 +31,22 @@ Tool Recommendation: Based on the category, it recommends the most suitable tool
 Clone the repository:
 bash
 git clone [repository URL]
+<img width="695" alt="clone_repo" src="https://github.com/devindatt/dimension_smart_action/assets/42626142/165e7715-168b-4813-b2fb-dfe09e562d93">
 
 Install required packages:
 pip install -r requirements.txt
-
+<img width="687" alt="install_requirements" src="https://github.com/devindatt/dimension_smart_action/assets/42626142/942cb4db-a887-4795-8c72-79ebe3c9b154">
 
 ## Usage
 
 Set your OpenAI API key as an environment variable:
 
 export OPENAI_API_KEY='your_api_key_here'
+<img width="690" alt="install_openai_key" src="https://github.com/devindatt/dimension_smart_action/assets/42626142/3e0c81b1-fca5-4288-8367-154a9d8e3b68">
 
 Run the Streamlit app:
 streamlit run dim_smart_feature.py
+<img width="686" alt="run_streamlit_app" src="https://github.com/devindatt/dimension_smart_action/assets/42626142/1288708c-d8d2-4701-9066-96213b9bee92">
 
 ## Contributing
 
